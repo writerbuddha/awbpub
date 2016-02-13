@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>SHOW HIDE</title>
+<link href="css/writerbuddha.css" rel="stylesheet">
+<script type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="js/writerbuddha.js"></script>
+</head>
+<body>
+<div class="jumbotron"></div>
+<h1>PLEASE HIDE ME</h1>
+<!--
+<style type="text/css">
+.a{
+width:500px;
+height:100px;
+font-size:30px;
+background:green;
+color:white;
+}
+</style>
+ see same code in writerbuddha.css-->
+
+<ul>
+<li>FIRST ARTICLE WRITEN BY WRITER BUDDHA</li>
+<li>SECOND ARTICLE WRITEN BY WRITER BUDDHA</li>
+<li>THIRD ARTICLE WRITEN BY WRITER BUDDHA</li>
+<li>FOURTH ARTICLE WRITEN BY WRITER BUDDHA</li>
+<li>FIFTH ARTICLE WRITEN BY WRITER BUDDHA</li>
+<li>SIXTH ARTICLE WRITEN BY WRITER BUDDHA</li>
+</ul>
+<p class='a'>FIRST ARTICLE WRITEN BY WRITER BUDDHA</p>
+<p>SECOND ARTICLE WRITEN BY WRITER BUDDHA</p>
+<p>THIRD ARTICLE WRITEN BY WRITER BUDDHA</p>
+<p>FOURTH ARTICLE WRITEN BY WRITER BUDDHA</p>
+<p>FIFTH ARTICLE WRITEN BY WRITER BUDDHA</p>
+<h2 class='a'>SIXTH ARTICLE WRITEN BY WRITER BUDDHA</h2>
+
+<h1>FIRST SIZE</h1>
+<h2>SECOND SIZE</h2>
+<h3>THIRD SIZE</h3>
+<h4>FOURTH SIZE</h4>
+<h5>FIFTH SIZE</h5>
+<h6>SIXTH SIZE</h6>
+
+</body>
+</html>
